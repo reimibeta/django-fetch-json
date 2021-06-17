@@ -9,7 +9,7 @@ import os
 import setuptools
 
 setuptools.setup(
-    name='connections',
-    version='1.0.0',
+    name='django_fetch_json',
+    version='1.0.1',
     packages=setuptools.find_packages()
 )
